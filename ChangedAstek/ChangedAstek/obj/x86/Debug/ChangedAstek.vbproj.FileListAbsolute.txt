@@ -1,0 +1,27 @@
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.vbproj.ResolveComReference.cache
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.AstekMain.resources
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.Resources.resources
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.vbproj.GenerateResource.Cache
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\bin\Debug\ChangedAstek.exe
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\bin\Debug\ChangedAstek.pdb
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\bin\Debug\ChangedAstek.xml
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\bin\Debug\GlassButtonVB.dll
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.exe
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.xml
+C:\Users\Merihim\Desktop\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.pdb
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.vbproj.ResolveComReference.cache
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.exe
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.xml
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.pdb
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\bin\Debug\ChangedAstek.exe
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\bin\Debug\ChangedAstek.pdb
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\bin\Debug\ChangedAstek.xml
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\bin\Debug\Microsoft.Office.Interop.Access.dll
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.AstekMain.resources
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.Resources.resources
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.vbproj.GenerateResource.Cache
+C:\Users\Merihim\Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\bin\Debug\ADODB.dll
+C:\Users\Merihim\Desktop\My Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.vbproj.ResolveComReference.cache
+C:\Users\Merihim\Desktop\My Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.exe
+C:\Users\Merihim\Desktop\My Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.xml
+C:\Users\Merihim\Desktop\My Desktop\UG Software\Astek Synch\ChangedAstek\ChangedAstek\obj\x86\Debug\ChangedAstek.pdb
